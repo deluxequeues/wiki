@@ -17,6 +17,10 @@ No more worrying about lag from multiple players trying to storm into your serve
 1. The Wiki
 2. The Community Discord
 
+## FAQ
+
+* **How do I join the queue?** Joining the queue is automatic and a player will be placed into the queue when they run the command to join that server, typically something like "/server &lt;server name&gt;"
+
 ## Reporting Bugs & Issues
 
 We all know bugs are never fun. DeluxeQueues is a fairly big plugin so we ask that if you experience a bug or an issue to please confirm that it is actually caused by us and not by other plugin that might be conflicting with it.
